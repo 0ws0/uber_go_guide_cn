@@ -1,0 +1,10 @@
+# .gitbook.yaml
+root: ./docs/
+
+structure:
+  readme: README.md      # 也可以是 docs/ 里的其他首页文件
+  summary: SUMMARY.md    # 你的目录文件
+
+# 如有历史路径变动，还可以做跳转（可选）
+# redirects:
+#   old/path: new-folder/page.md
